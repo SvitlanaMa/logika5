@@ -19,3 +19,5 @@ class Button(Widget):
 
 btn = Button(100, 100, "Брати участь", False)
 
+btn.print()
+
